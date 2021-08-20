@@ -1,0 +1,4 @@
+0 Red
+1 Yellow
+2 Green
+3 not a traffic light
